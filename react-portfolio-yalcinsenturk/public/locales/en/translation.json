@@ -1,0 +1,75 @@
+{
+  "Navbar": {
+    "1": "Home",
+    "2": "About",
+    "3": "Experience",
+    "4": "Projects",
+    "5": "Contact"
+  },
+  "About": {
+    "1": "About."
+  },
+  "Projects": {
+    "1": "Projects.",
+    "title": [
+      "Gebze Technical University R&D Studies",
+      "Atic Makina GEBKİM Project",
+      "Albadaha Partnership",
+      "Domestic Goods Certificate"
+    ],
+    "service": [
+      "ATILIM MAKİNA has become a technology producing company in the machinery sector thanks to its collaboration with Gebze Technical University, and thus, has shown its importance to University & Industry cooperation with its R&D studies.",
+      "Atic Makina Kimya, which is the foundation of ATILIM MAKİNA & ALBADAHA MARBLE COMPANY, has started its construction works.",
+      "ATILIM MAKİNA has signed a major partnership with Albadaha Marble Company, one of the leading companies in Saudi Arabia, and is a partner in the chemical plant project equipped with the latest technological machines on a 8600 m2 plot in Gebkim Organized Industrial Zone. Thanks to the capital of many Arab investors within the company, the sector has made a rapid entry and talks about other forward-looking projects.",
+      "In recent years, a change was made in the Public Procurement Authority, bringing up to 15% price advantage in public tenders to all SMEs and large-scale companies that received domestic goods. The price advantage will be applied to SMEs and large-scale companies that produce medium and high-tech industrial products and are certified to be at least 50% domestic. The medium and high technology product list will be announced annually by the Ministry of Science, Industry and Technology. Our company ATILIM MAKİNA A.Ş. Thanks to our company, you can benefit from the supports that require the 'Domestic Goods Document' within the scope of the incentive you will receive. Thanks to the Domestic Goods Certificate, you can benefit from many supports. In the purchases you will make, you need to make purchases from companies that have a Local Property Certificate within the scope of incentive and support."
+    ]
+  },
+  "Contact": {
+    "1": "Contact.",
+    "2": "Contact",
+    "3": "Consult us for ",
+    "4": "creative ideas ",
+    "5": "and ",
+    "6": "solutions ",
+    "7": "related to your ",
+    "8": "work experiences."
+  },
+  "Index": {
+    "name": "Yalçın Şentürk",
+    "headerTagline1": "Yalçın Şentürk ",
+    "headerTagline2": "Production and Process Engineer 👨‍🔬",
+    "headerTagline3": "from Turkey",
+    "abouttext": "I always do more than necessary to fulfill the task given to me in the best and most successful way, even if the assigned task is not my job, I can learn and perform different tasks in a short time. "
+  },
+  "Career": {
+    "experience": "Experience.",
+    "position": [
+      "Assistant of General Manager",
+      "General Manager",
+      "General Manager Assistant",
+      "General Manager",
+      "Trainee"
+    ],
+    "company": [
+      "Atılım Makina",
+      "MEPAPEC",
+      "Atic Kimya",
+      "Tecra IT & Toshiba Authorized Service",
+      "AkzoNobel"
+    ],
+    "timeperiod": [
+      "September 2012 - ...",
+      "November 2014 - September 2016",
+      "May 2014 - August 2016",
+      "January 2007 - September 2013",
+      "June 2006 - September 2006"
+    ],
+    "description": [
+      "...",
+      "The companies operating in the chemical sector, I walked the entire investment in Turkey. As a process engineer, I put the company into production and reduced a difficult and long-lasting reaction in plasticizer production to very short periods. After working as a process engineer and manager in the project, I completed the project and handed it over to the investor.",
+      "I was responsible for production as a process engineer, carrying out all the setup and investment stages of the firm operating in the chemical industry.",
+      "Owner of the company.",
+      "I completed the modeling of the truck park project on my own."
+    ]
+  }
+}

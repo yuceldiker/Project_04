@@ -1,0 +1,81 @@
+{
+  "Navbar": {
+    "1": "Anasayfa",
+    "2": "Hakkında",
+    "3": "Deneyim",
+    "4": "Projeler",
+    "5": "İletişim"
+  },
+  "About": {
+    "1": "Hakkında."
+  },
+  "Projects": {
+    "1": "Projelerim.",
+    "title": [
+      "Gebze Teknik Üniversitesi ARGE Çalışmaları",
+      "Atic Makina GEBKİM Projesi",
+      "Albadaha Ortaklığı",
+      "Yerli Malı Belgesi"
+    ],
+    "service": [
+      "ATILIM MAKİNA Gebze Teknik Üniversitesi ile yaptığı ortak işbirliği sayesinde Makine sektöründe teknoloji üreten bir firma haline geldi ve bu sayede Üniversite & Sanayi işbirliğine verdiği önemi yaptığı Arge çalışmalarıyla göstermiş oldu.",
+      "ATILIM MAKİNA & ALBADAHA MARBLE COMPANY kuruluşu olan Atic Makina Kimya inşaat çalışmaları başlamış bulunmaktadır.",
+      "ATILIM MAKİNA Suudi Arabistan ın en önde gelen firmalarından Albadaha Marble Company firmasıyla büyük bir ortaklığı imza atmış olup Gebkim Organize Sanayi Bölgesinde 8600 m2 arsa üzerinde son teknolojik makinelerle donatılmış Kimya tesisi projesinde ortak yer almaktadır. Firma bünyesinde birçok Arap yatırımcının sermayesi sayesinde sektörü hızlı bir giriş yapmış olup ileriye yönelik diğer projeler hakkında birçok görüşme yapmaktadır.",
+      "Geçtiğimiz yıllarda Kamu İhale Kurumu’nda bir değişikliğe gidilerek, yerli malı belgesi alan tüm KOBİ ve büyük ölçekli firmalara kamu ihalelerinde %15’e kadar fiyat avantajı getirildi.  Fiyat avantajı, orta ve yüksek teknolojili sanayi ürünleri üreten ve en az %50′si yerli üretim olduğu belgelenen KOBİ ve büyük ölçekli firmalara uygulanacak. Orta ve yüksek teknolojili ürün listesi ise, her yıl Bilim, Sanayi ve Teknoloji Bakanlığı tarafından açıklanacak.Firmamız ATILIM MAKİNA A.Ş. yerli malı belgesini almaya hak kazanmış olup alacağınız teşvik kapsamında 'Yerli Malı Belgesi' gerektiren desteklerden firmamız sayesinde faydalanabilirsiniz. Yerli Malı Belgesi sayesinde birçok destekten yararlanabiliyorsunuz. Yapacağınız alımlarda teşvik ve destek kapsamında Yerli Malı Belgesi olan firmalardan alım yapmanız gerekmektedir."
+    ],
+    "imageSrc": [
+      "http://www.atilimmakina.com.tr/images_up/whatsappim.jpg",
+      "http://www.atilimmakina.com.tr/images_up/deneme.jpg",
+      "http://www.atilimmakina.com.tr/images_up/img4444.jpg",
+      "http://www.atilimmakina.com.tr/images_up/yerlimal.jpg"
+    ]
+  },
+  "Contact": {
+    "1": "İletişim.",
+    "2": "İletişim",
+    "3": "İş deneyimlerinizle ilgili ",
+    "4": "her türlü çözüm ve yaratıcı fikirler ",
+    "5": "için danışın.",
+    "6": "",
+    "7": "",
+    "8": ""
+  },
+  "Index": {
+    "name": "Yalçın Şentürk",
+    "headerTagline1": "Yalçın Şentürk ",
+    "headerTagline2": "Üretim ve Proses Mühendisi 👨‍🔬 ",
+    "headerTagline3": "Türkiye ",
+    "abouttext": "Bana verilen görevi en iyi ve en başarılı şekilde yerine getirmek için her zaman gerekeni fazlasıyla yaparım, verilen görev benim işim olmasa bile kısa sürede öğrenip farklı görevleri icra edebilirim. "
+  },
+  "Career": {
+    "experience": "Deneyim.",
+    "position": [
+      "Genel Müdür Asistanı",
+      "Genel Müdür",
+      "Genel Müdür Asistanı",
+      "Genel Müdür",
+      "Stajer"
+    ],
+    "company": [
+      "Atılım Makina",
+      "MEPAPEC",
+      "Atic Kimya",
+      "Tecra Bilişim & Toshiba Yetkili Servisi",
+      "AkzoNobel"
+    ],
+    "timeperiod": [
+      "Eylül 2012 - ...",
+      "Kasım 2014 - Eylül 2016",
+      "Mayıs 2014 - Ağustos 2016",
+      "Ocak 2007 - Eylül 2013",
+      "Haziran 2006 - Eylül 2006"
+    ],
+    "description": [
+      "...",
+      "Kimya sektöründe faaliyet gösteren firmanın Türkiye'deki yatırımının tamamını yürüttüm. Firmayı üretime geçirip proses muhendisi olarak Plastifiyan üretimde zor ve uzun süren bir reaksiyonu çok kısa sürelere indirdim. Pojede proses mühendisi ve yönetici olarak çalışıp projeyi tamamladıktan sonra yatırımcıya teslim ettim.",
+      "Kimya sektöründe faaliyet gösteren firmanın tüm kurulum ve yatırım aşamalarını yürütüp daha sonra proses mühendisi olarak üretimden sorumluydum.",
+      "Firma sahibi.",
+      "Tır parkının modellenmesi projesini tek başıma yürütüp tamamladım."
+    ]
+  }
+}
