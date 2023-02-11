@@ -1,2 +1,4 @@
 # Project_04
-React ile single-page &amp; multi-language portfolyo sayfası
+Single-page & multi-language portfolio page with ReactJS.
+
+ReactJS ile single-page &amp; multi-language portfolyo sayfası.
